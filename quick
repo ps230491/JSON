@@ -1,0 +1,80 @@
+[
+{
+"id": 1,
+"Naam": "Mbappe",
+"Sponsor": "Nike",
+"ClubId": 1
+},
+{
+"id": 3,
+"Naam": "Kaka",
+"Sponsor": "Nike",
+"ClubId": 3
+},
+{
+"id": 4,
+"Naam": "Xavi",
+"Sponsor": "Puma",
+"ClubId": 4
+},
+{
+"id": 5,
+"Naam": "Pedri",
+"Sponsor": "Puma",
+"ClubId": 5
+},
+{
+"id": 6,
+"Naam": "Lukaku",
+"Sponsor": "Nike",
+"ClubId": 6
+},
+{
+"id": 7,
+"Naam": "Iniesta",
+"Sponsor": "Adidas",
+"ClubId": 7
+},
+{
+"id": 8,
+"Naam": "Kerem",
+"Sponsor": "Nike",
+"ClubId": 8
+},
+{
+"id": 9,
+"Naam": "Nelson",
+"Sponsor": "Puma",
+"ClubId": 9
+},
+{
+"id": 10,
+"Naam": "Boey",
+"Sponsor": "Puma",
+"ClubId": 10
+},
+{
+"id": 11,
+"Naam": "Kroos",
+"Sponsor": "Adidas",
+"ClubId": 11
+},
+{
+"id": 12,
+"Naam": "Son",
+"Sponsor": "Nike",
+"ClubId": 12
+},
+{
+"id": 13,
+"Naam": "Gomis",
+"Sponsor": "Nike",
+"ClubId": 13
+},
+{
+"id": 14,
+"Naam": "was",
+"Sponsor": "coca-cola",
+"ClubId": 1
+}
+]
